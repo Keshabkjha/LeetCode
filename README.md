@@ -17,6 +17,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0001-two-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
+| [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/Keshabkjha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
+| [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 ## Trie
 |  |
 | ------- |
