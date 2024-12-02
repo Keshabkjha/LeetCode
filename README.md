@@ -18,6 +18,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Keshabkjha/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -57,6 +58,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/Keshabkjha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 ## Trie
 |  |
