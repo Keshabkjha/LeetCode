@@ -30,6 +30,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Keshabkjha/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -39,4 +40,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Keshabkjha/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
