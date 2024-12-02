@@ -17,6 +17,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0001-two-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Keshabkjha/LeetCode/tree/master/0035-search-insert-position) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -73,4 +74,8 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Keshabkjha/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
