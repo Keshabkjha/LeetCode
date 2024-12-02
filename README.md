@@ -25,12 +25,18 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
