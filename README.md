@@ -20,8 +20,17 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
