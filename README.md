@@ -155,6 +155,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0171-excel-sheet-column-number](https://github.com/Keshabkjha/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/Keshabkjha/LeetCode/tree/master/0504-base-7) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Keshabkjha/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
