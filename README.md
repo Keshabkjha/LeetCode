@@ -43,6 +43,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0217-contains-duplicate](https://github.com/Keshabkjha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Keshabkjha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Keshabkjha/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Keshabkjha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Keshabkjha/LeetCode/tree/master/0500-keyboard-row) |
