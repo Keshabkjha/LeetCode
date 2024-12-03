@@ -46,6 +46,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,4 +251,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
