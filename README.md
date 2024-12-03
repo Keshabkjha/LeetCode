@@ -106,6 +106,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -116,6 +117,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
@@ -127,6 +129,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -135,6 +138,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0101-symmetric-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
