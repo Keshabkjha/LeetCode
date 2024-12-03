@@ -55,6 +55,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -325,6 +326,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Function
 |  |
