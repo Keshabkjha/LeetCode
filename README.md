@@ -41,6 +41,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -124,6 +125,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0169-majority-element](https://github.com/Keshabkjha/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keshabkjha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Binary Search
@@ -193,6 +195,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0190-reverse-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keshabkjha/LeetCode/tree/master/0169-majority-element) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |
