@@ -41,6 +41,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/Keshabkjha/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Keshabkjha/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -245,6 +246,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0338-counting-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
