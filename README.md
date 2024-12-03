@@ -120,6 +120,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Greedy
 |  |
 | ------- |
@@ -261,4 +262,12 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
