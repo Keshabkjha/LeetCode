@@ -59,6 +59,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -147,6 +148,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0445-add-two-numbers-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Trie
 |  |
 | ------- |
