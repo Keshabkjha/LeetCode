@@ -43,6 +43,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -135,6 +136,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0217-contains-duplicate](https://github.com/Keshabkjha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Binary Search
@@ -144,6 +146,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0069-sqrtx](https://github.com/Keshabkjha/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Tree
 |  |
@@ -261,6 +264,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Design
 |  |
@@ -270,4 +274,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
