@@ -48,6 +48,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0020-valid-parentheses](https://github.com/Keshabkjha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Keshabkjha/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching
@@ -61,6 +62,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0009-palindrome-number](https://github.com/Keshabkjha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 ## Trie
 |  |
@@ -104,4 +106,12 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
