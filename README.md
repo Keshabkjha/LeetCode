@@ -58,6 +58,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0125-valid-palindrome](https://github.com/Keshabkjha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Keshabkjha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -87,6 +88,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0125-valid-palindrome](https://github.com/Keshabkjha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Keshabkjha/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Keshabkjha/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Keshabkjha/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0889-buddy-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0889-buddy-strings) |
@@ -223,6 +225,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0119-pascals-triangle-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshabkjha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
