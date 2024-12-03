@@ -25,6 +25,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0118-pascals-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshabkjha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Keshabkjha/LeetCode/tree/master/0136-single-number) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -149,6 +150,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Keshabkjha/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
