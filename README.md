@@ -41,6 +41,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0217-contains-duplicate](https://github.com/Keshabkjha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0069-sqrtx](https://github.com/Keshabkjha/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Tree
 |  |
 | ------- |
@@ -223,4 +227,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 <!---LeetCode Topics End-->
