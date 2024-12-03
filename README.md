@@ -54,6 +54,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Keshabkjha/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -103,6 +104,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0889-buddy-strings) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## String
@@ -269,6 +271,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0657-robot-return-to-origin](https://github.com/Keshabkjha/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Keshabkjha/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Keshabkjha/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Dynamic Programming
 |  |
@@ -338,6 +341,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
