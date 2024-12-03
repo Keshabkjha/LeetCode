@@ -27,6 +27,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Keshabkjha/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -245,6 +246,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Keshabkjha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -314,6 +316,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Hash Function
 |  |
