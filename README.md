@@ -7,6 +7,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Keshabkjha/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
