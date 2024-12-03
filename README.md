@@ -133,6 +133,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0242-valid-anagram](https://github.com/Keshabkjha/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Keshabkjha/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Keshabkjha/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Keshabkjha/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Keshabkjha/LeetCode/tree/master/0500-keyboard-row) |
