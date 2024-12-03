@@ -135,6 +135,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0014-longest-common-prefix](https://github.com/Keshabkjha/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Keshabkjha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Keshabkjha/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Keshabkjha/LeetCode/tree/master/0125-valid-palindrome) |
@@ -170,6 +171,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0002-add-two-numbers](https://github.com/Keshabkjha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Keshabkjha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Keshabkjha/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
@@ -309,6 +311,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Keshabkjha/LeetCode/tree/master/0495-teemo-attacking) |
