@@ -19,6 +19,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Keshabkjha/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -29,6 +30,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -75,6 +77,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
