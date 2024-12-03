@@ -182,4 +182,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Keshabkjha/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
