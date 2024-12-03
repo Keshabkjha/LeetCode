@@ -89,6 +89,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0125-valid-palindrome](https://github.com/Keshabkjha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Keshabkjha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
@@ -110,6 +111,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0141-linked-list-cycle](https://github.com/Keshabkjha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Keshabkjha/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Keshabkjha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -173,6 +175,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0070-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Keshabkjha/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Keshabkjha/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Keshabkjha/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0445-add-two-numbers-ii) |
