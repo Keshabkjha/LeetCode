@@ -179,6 +179,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0171-excel-sheet-column-number](https://github.com/Keshabkjha/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Keshabkjha/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Keshabkjha/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -333,6 +334,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -346,6 +348,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
@@ -362,6 +365,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -504,6 +508,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Keshabkjha/LeetCode/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Keshabkjha/LeetCode/tree/master/0401-binary-watch) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
