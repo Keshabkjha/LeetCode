@@ -82,6 +82,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/Keshabkjha/LeetCode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Keshabkjha/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Keshabkjha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -427,6 +428,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0657-robot-return-to-origin](https://github.com/Keshabkjha/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Keshabkjha/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Keshabkjha/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0898-transpose-matrix) |
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -521,6 +523,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0073-set-matrix-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
