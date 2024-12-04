@@ -218,6 +218,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1274-number-of-days-between-two-dates](https://github.com/Keshabkjha/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keshabkjha/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Keshabkjha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Keshabkjha/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -346,6 +347,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Keshabkjha/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Keshabkjha/LeetCode/tree/master/0461-hamming-distance) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Keshabkjha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
