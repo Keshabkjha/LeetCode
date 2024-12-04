@@ -177,6 +177,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1274-number-of-days-between-two-dates](https://github.com/Keshabkjha/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Keshabkjha/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1532-reformat-the-string](https://github.com/Keshabkjha/LeetCode/tree/master/1532-reformat-the-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Keshabkjha/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
