@@ -230,6 +230,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0171-excel-sheet-column-number](https://github.com/Keshabkjha/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Keshabkjha/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Keshabkjha/LeetCode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Keshabkjha/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0445-add-two-numbers-ii) |
