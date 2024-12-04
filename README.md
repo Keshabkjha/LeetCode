@@ -378,6 +378,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0338-counting-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Keshabkjha/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Keshabkjha/LeetCode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Keshabkjha/LeetCode/tree/master/0461-hamming-distance) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Keshabkjha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -494,6 +495,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Keshabkjha/LeetCode/tree/master/0051-n-queens) |
+| [0401-binary-watch](https://github.com/Keshabkjha/LeetCode/tree/master/0401-binary-watch) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
