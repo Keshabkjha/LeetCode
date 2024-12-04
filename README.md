@@ -54,6 +54,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0495-teemo-attacking](https://github.com/Keshabkjha/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Keshabkjha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Keshabkjha/LeetCode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/Keshabkjha/LeetCode/tree/master/0682-baseball-game) |
@@ -235,6 +236,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0242-valid-anagram](https://github.com/Keshabkjha/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Keshabkjha/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Keshabkjha/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/Keshabkjha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -386,6 +388,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Design
