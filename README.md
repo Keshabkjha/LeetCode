@@ -80,6 +80,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Keshabkjha/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Keshabkjha/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Keshabkjha/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -435,6 +436,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0566-reshape-the-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Function
