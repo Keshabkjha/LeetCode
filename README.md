@@ -26,6 +26,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0050-powx-n](https://github.com/Keshabkjha/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Keshabkjha/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Keshabkjha/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Keshabkjha/LeetCode/tree/master/1013-fibonacci-number) |
@@ -213,6 +214,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0168-excel-sheet-column-title](https://github.com/Keshabkjha/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Keshabkjha/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Keshabkjha/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Keshabkjha/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -359,6 +361,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0190-reverse-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Keshabkjha/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Keshabkjha/LeetCode/tree/master/0389-find-the-difference) |
