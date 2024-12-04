@@ -453,12 +453,14 @@ Here I am sharing my solution of Leetcode Problems.
 | [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Queue
 |  |
 | ------- |
@@ -497,4 +499,12 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0561-array-partition](https://github.com/Keshabkjha/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/Keshabkjha/LeetCode/tree/master/1137-height-checker) |
+## Graph
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Shortest Path
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
