@@ -10,6 +10,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0021-merge-two-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Keshabkjha/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Keshabkjha/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Keshabkjha/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Keshabkjha/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -146,6 +147,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0013-roman-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Keshabkjha/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Keshabkjha/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Keshabkjha/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
@@ -507,6 +509,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Keshabkjha/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
@@ -570,5 +573,6 @@ Here I am sharing my solution of Leetcode Problems.
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Keshabkjha/LeetCode/tree/master/0146-lru-cache) |
 | [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 <!---LeetCode Topics End-->
