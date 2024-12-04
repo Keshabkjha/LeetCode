@@ -319,6 +319,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0069-sqrtx](https://github.com/Keshabkjha/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Keshabkjha/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Keshabkjha/LeetCode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Keshabkjha/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Keshabkjha/LeetCode/tree/master/0792-binary-search) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -539,4 +540,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Keshabkjha/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
