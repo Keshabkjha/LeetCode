@@ -18,6 +18,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Keshabkjha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Keshabkjha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
 |  |
@@ -272,6 +274,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0496-next-greater-element-i](https://github.com/Keshabkjha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Keshabkjha/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Keshabkjha/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Greedy
 |  |
 | ------- |
@@ -418,6 +421,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Dynamic Programming
 |  |
@@ -495,6 +499,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
+| [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Queue
 |  |
@@ -549,4 +554,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Keshabkjha/LeetCode/tree/master/0278-first-bad-version) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 <!---LeetCode Topics End-->
