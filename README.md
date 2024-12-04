@@ -221,6 +221,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keshabkjha/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Keshabkjha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/Keshabkjha/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Keshabkjha/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -250,6 +251,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Keshabkjha/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/Keshabkjha/LeetCode/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Sorting
