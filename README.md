@@ -81,6 +81,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keshabkjha/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Keshabkjha/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Keshabkjha/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Keshabkjha/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
