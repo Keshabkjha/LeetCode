@@ -15,6 +15,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0206-reverse-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -68,6 +69,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Keshabkjha/LeetCode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/Keshabkjha/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Keshabkjha/LeetCode/tree/master/0932-monotonic-array) |
@@ -141,6 +143,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0496-next-greater-element-i](https://github.com/Keshabkjha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Keshabkjha/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0889-buddy-strings) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -438,6 +441,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
@@ -458,6 +462,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 ## Backtracking
 |  |
