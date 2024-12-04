@@ -159,6 +159,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0500-keyboard-row](https://github.com/Keshabkjha/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Keshabkjha/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Keshabkjha/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0551-student-attendance-record-i](https://github.com/Keshabkjha/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keshabkjha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Keshabkjha/LeetCode/tree/master/0657-robot-return-to-origin) |
