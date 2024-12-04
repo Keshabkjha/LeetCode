@@ -174,6 +174,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0874-backspace-string-compare](https://github.com/Keshabkjha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0889-buddy-strings) |
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1274-number-of-days-between-two-dates](https://github.com/Keshabkjha/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Keshabkjha/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -210,6 +211,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1013-fibonacci-number](https://github.com/Keshabkjha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1274-number-of-days-between-two-dates](https://github.com/Keshabkjha/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keshabkjha/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Keshabkjha/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
