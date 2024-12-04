@@ -63,6 +63,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0605-can-place-flowers](https://github.com/Keshabkjha/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshabkjha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Keshabkjha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Keshabkjha/LeetCode/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
