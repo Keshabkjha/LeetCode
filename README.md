@@ -16,6 +16,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0206-reverse-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshabkjha/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -374,6 +375,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -574,5 +576,6 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Keshabkjha/LeetCode/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 <!---LeetCode Topics End-->
