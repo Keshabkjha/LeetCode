@@ -9,6 +9,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0002-add-two-numbers](https://github.com/Keshabkjha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Keshabkjha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Keshabkjha/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Keshabkjha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Keshabkjha/LeetCode/tree/master/0146-lru-cache) |
@@ -467,6 +468,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshabkjha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Keshabkjha/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0190-reverse-bits) |
@@ -506,6 +508,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -580,4 +583,8 @@ Here I am sharing my solution of Leetcode Problems.
 | [0146-lru-cache](https://github.com/Keshabkjha/LeetCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
