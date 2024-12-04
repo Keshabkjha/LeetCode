@@ -59,6 +59,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0561-array-partition](https://github.com/Keshabkjha/LeetCode/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Keshabkjha/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Keshabkjha/LeetCode/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -229,6 +230,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0455-assign-cookies](https://github.com/Keshabkjha/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Keshabkjha/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Keshabkjha/LeetCode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Keshabkjha/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
