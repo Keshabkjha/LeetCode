@@ -38,6 +38,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshabkjha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Keshabkjha/LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Keshabkjha/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -488,6 +489,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Keshabkjha/LeetCode/tree/master/0051-n-queens) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
