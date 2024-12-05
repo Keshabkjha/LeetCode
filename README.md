@@ -141,6 +141,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1894-merge-strings-alternately](https://github.com/Keshabkjha/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Keshabkjha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
@@ -220,6 +221,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Keshabkjha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
 |  |
