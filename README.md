@@ -115,6 +115,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2232-adding-spaces-to-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Two Pointers
 |  |
@@ -176,6 +177,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Keshabkjha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -302,6 +304,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Sorting
 |  |
@@ -329,6 +332,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Binary Search
 |  |
@@ -345,6 +349,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Tree
 |  |
