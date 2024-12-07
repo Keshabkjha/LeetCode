@@ -107,6 +107,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Keshabkjha/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Keshabkjha/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -347,6 +348,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0792-binary-search](https://github.com/Keshabkjha/LeetCode/tree/master/0792-binary-search) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Keshabkjha/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
