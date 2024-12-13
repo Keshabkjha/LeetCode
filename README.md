@@ -118,6 +118,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keshabkjha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keshabkjha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3427-special-array-ii](https://github.com/Keshabkjha/LeetCode/tree/master/3427-special-array-ii) |
@@ -182,6 +183,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Keshabkjha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Keshabkjha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
@@ -339,6 +341,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keshabkjha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Binary Search
@@ -460,6 +463,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keshabkjha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -537,6 +541,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keshabkjha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Design
 |  |
 | ------- |
