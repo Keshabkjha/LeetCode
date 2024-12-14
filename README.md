@@ -119,6 +119,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keshabkjha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Keshabkjha/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keshabkjha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3427-special-array-ii](https://github.com/Keshabkjha/LeetCode/tree/master/3427-special-array-ii) |
@@ -522,6 +523,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0594-longest-harmonious-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Keshabkjha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2868-continuous-subarrays](https://github.com/Keshabkjha/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keshabkjha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Keshabkjha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
@@ -542,6 +544,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keshabkjha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Keshabkjha/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -555,6 +558,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshabkjha/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [2868-continuous-subarrays](https://github.com/Keshabkjha/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -616,4 +620,12 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Keshabkjha/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Keshabkjha/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
