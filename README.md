@@ -108,6 +108,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Keshabkjha/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Keshabkjha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Keshabkjha/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -309,6 +310,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0890-lemonade-change](https://github.com/Keshabkjha/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Keshabkjha/LeetCode/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/Keshabkjha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Keshabkjha/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Keshabkjha/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -540,6 +542,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1917-maximum-average-pass-ratio](https://github.com/Keshabkjha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keshabkjha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
