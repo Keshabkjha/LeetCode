@@ -101,6 +101,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keshabkjha/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Keshabkjha/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keshabkjha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Keshabkjha/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Keshabkjha/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -303,6 +304,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0682-baseball-game](https://github.com/Keshabkjha/LeetCode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Keshabkjha/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keshabkjha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2389-design-a-text-editor](https://github.com/Keshabkjha/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Greedy
 |  |
@@ -601,6 +603,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Keshabkjha/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keshabkjha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
 | ------- |
