@@ -403,6 +403,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Keshabkjha/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Keshabkjha/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -423,6 +424,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Keshabkjha/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -453,6 +455,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Keshabkjha/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -636,6 +639,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path
 |  |
 | ------- |
