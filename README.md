@@ -65,6 +65,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0455-assign-cookies](https://github.com/Keshabkjha/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Keshabkjha/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Keshabkjha/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Keshabkjha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Keshabkjha/LeetCode/tree/master/0500-keyboard-row) |
@@ -505,6 +506,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Keshabkjha/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0338-counting-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshabkjha/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
@@ -618,6 +620,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0051-n-queens](https://github.com/Keshabkjha/LeetCode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Keshabkjha/LeetCode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
