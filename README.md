@@ -110,6 +110,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Keshabkjha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Keshabkjha/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Keshabkjha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -234,6 +235,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1532-reformat-the-string](https://github.com/Keshabkjha/LeetCode/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Keshabkjha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/Keshabkjha/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Keshabkjha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Keshabkjha/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -515,6 +517,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1063-best-sightseeing-pair](https://github.com/Keshabkjha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Keshabkjha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Memoization
 |  |
 | ------- |
