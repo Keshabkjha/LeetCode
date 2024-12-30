@@ -518,6 +518,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1680-count-all-possible-routes](https://github.com/Keshabkjha/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Keshabkjha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Keshabkjha/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
 | ------- |
