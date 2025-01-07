@@ -103,6 +103,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keshabkjha/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Keshabkjha/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keshabkjha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -236,6 +237,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1274-number-of-days-between-two-dates](https://github.com/Keshabkjha/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Keshabkjha/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/Keshabkjha/LeetCode/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -257,6 +259,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Keshabkjha/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1524-string-matching-in-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Math
 |  |
