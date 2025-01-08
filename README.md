@@ -134,6 +134,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keshabkjha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Keshabkjha/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Keshabkjha/LeetCode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keshabkjha/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -253,6 +254,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keshabkjha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Keshabkjha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Keshabkjha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Keshabkjha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -305,6 +308,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Keshabkjha/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -633,6 +637,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -696,4 +701,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Keshabkjha/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
