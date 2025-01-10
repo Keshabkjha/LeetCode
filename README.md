@@ -91,6 +91,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0898-transpose-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Keshabkjha/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Keshabkjha/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/Keshabkjha/LeetCode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0993-tallest-billboard](https://github.com/Keshabkjha/LeetCode/tree/master/0993-tallest-billboard) |
 | [1018-largest-perimeter-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -192,6 +193,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0816-design-hashset](https://github.com/Keshabkjha/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Keshabkjha/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0889-buddy-strings) |
+| [0952-word-subsets](https://github.com/Keshabkjha/LeetCode/tree/master/0952-word-subsets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -235,6 +237,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0742-to-lower-case](https://github.com/Keshabkjha/LeetCode/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/Keshabkjha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Keshabkjha/LeetCode/tree/master/0889-buddy-strings) |
+| [0952-word-subsets](https://github.com/Keshabkjha/LeetCode/tree/master/0952-word-subsets) |
 | [1119-robot-bounded-in-circle](https://github.com/Keshabkjha/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1274-number-of-days-between-two-dates](https://github.com/Keshabkjha/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Keshabkjha/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
