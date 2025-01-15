@@ -354,6 +354,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Keshabkjha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Keshabkjha/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Keshabkjha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/Keshabkjha/LeetCode/tree/master/2509-minimize-xor) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Keshabkjha/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -502,6 +503,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Keshabkjha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Keshabkjha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/Keshabkjha/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Keshabkjha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
