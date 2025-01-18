@@ -103,6 +103,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keshabkjha/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -484,6 +485,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Keshabkjha/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -614,6 +616,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Keshabkjha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Keshabkjha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -647,6 +650,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0898-transpose-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Keshabkjha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Keshabkjha/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -684,11 +688,13 @@ Here I am sharing my solution of Leetcode Problems.
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Interactive
 |  |
