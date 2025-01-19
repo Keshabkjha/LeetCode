@@ -61,6 +61,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0228-summary-ranges](https://github.com/Keshabkjha/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Keshabkjha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0283-move-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshabkjha/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Keshabkjha/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
@@ -484,6 +485,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -614,6 +616,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/Keshabkjha/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -645,6 +648,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0898-transpose-matrix) |
