@@ -101,6 +101,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [1087-longest-arithmetic-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1137-height-checker](https://github.com/Keshabkjha/LeetCode/tree/master/1137-height-checker) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keshabkjha/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -459,6 +460,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Keshabkjha/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -491,6 +493,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
+| [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Keshabkjha/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -590,6 +593,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0169-majority-element](https://github.com/Keshabkjha/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Keshabkjha/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/Keshabkjha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Keshabkjha/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -658,6 +662,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0898-transpose-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Keshabkjha/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -747,4 +752,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Keshabkjha/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
