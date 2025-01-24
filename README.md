@@ -460,6 +460,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Keshabkjha/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -493,6 +494,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
+| [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Keshabkjha/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -706,6 +708,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Keshabkjha/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Keshabkjha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -756,4 +759,8 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
