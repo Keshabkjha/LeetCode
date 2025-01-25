@@ -144,6 +144,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keshabkjha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Keshabkjha/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Keshabkjha/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Keshabkjha/LeetCode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keshabkjha/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -398,6 +399,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keshabkjha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Keshabkjha/LeetCode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Keshabkjha/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -759,6 +761,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Keshabkjha/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
