@@ -461,6 +461,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Keshabkjha/LeetCode/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -500,6 +501,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/Keshabkjha/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -717,6 +719,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Keshabkjha/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Keshabkjha/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -769,6 +772,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Keshabkjha/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Keshabkjha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Keshabkjha/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
