@@ -138,6 +138,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keshabkjha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keshabkjha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Keshabkjha/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Keshabkjha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Keshabkjha/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -176,6 +177,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2232-adding-spaces-to-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Keshabkjha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Keshabkjha/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Keshabkjha/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Keshabkjha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
 |  |
@@ -215,6 +217,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keshabkjha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Keshabkjha/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keshabkjha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Keshabkjha/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Keshabkjha/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Keshabkjha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
