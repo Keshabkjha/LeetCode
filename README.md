@@ -332,6 +332,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Keshabkjha/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Keshabkjha/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Keshabkjha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
@@ -464,6 +465,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/Keshabkjha/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0572-subtree-of-another-tree) |
