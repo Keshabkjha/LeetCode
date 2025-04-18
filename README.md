@@ -302,6 +302,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0067-add-binary](https://github.com/Keshabkjha/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Keshabkjha/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Keshabkjha/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Keshabkjha/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Keshabkjha/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
@@ -436,6 +437,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Keshabkjha/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -491,6 +493,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Keshabkjha/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -577,6 +580,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0005-longest-palindromic-substring](https://github.com/Keshabkjha/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Keshabkjha/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Keshabkjha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshabkjha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -614,6 +618,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Keshabkjha/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keshabkjha/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
