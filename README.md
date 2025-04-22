@@ -45,6 +45,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0027-remove-element](https://github.com/Keshabkjha/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Keshabkjha/LeetCode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Keshabkjha/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Keshabkjha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Keshabkjha/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -583,6 +584,7 @@ Here I am sharing my solution of Leetcode Problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Keshabkjha/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Keshabkjha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Keshabkjha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Keshabkjha/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -615,6 +617,7 @@ Here I am sharing my solution of Leetcode Problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshabkjha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Keshabkjha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Keshabkjha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Keshabkjha/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0190-reverse-bits) |
