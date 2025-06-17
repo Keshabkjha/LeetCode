@@ -477,6 +477,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshabkjha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Keshabkjha/LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keshabkjha/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Keshabkjha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Keshabkjha/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -526,6 +527,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Keshabkjha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Keshabkjha/LeetCode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/Keshabkjha/LeetCode/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Keshabkjha/LeetCode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Keshabkjha/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -759,6 +761,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Keshabkjha/LeetCode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Keshabkjha/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Keshabkjha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -819,6 +822,7 @@ Here I am sharing my solution of Leetcode Problems.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Keshabkjha/LeetCode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Keshabkjha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Keshabkjha/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Keshabkjha/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
