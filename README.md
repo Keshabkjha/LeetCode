@@ -64,6 +64,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0228-summary-ranges](https://github.com/Keshabkjha/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Keshabkjha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Keshabkjha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Keshabkjha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -171,6 +172,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0202-happy-number](https://github.com/Keshabkjha/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Keshabkjha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Keshabkjha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Keshabkjha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Keshabkjha/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keshabkjha/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -425,6 +427,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Keshabkjha/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Keshabkjha/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Keshabkjha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Keshabkjha/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Keshabkjha/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Keshabkjha/LeetCode/tree/master/0441-arranging-coins) |
@@ -554,6 +557,7 @@ Here I am sharing my solution of Leetcode Problems.
 | [0222-count-complete-tree-nodes](https://github.com/Keshabkjha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Keshabkjha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Keshabkjha/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Keshabkjha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Keshabkjha/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Keshabkjha/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Keshabkjha/LeetCode/tree/master/0371-sum-of-two-integers) |
