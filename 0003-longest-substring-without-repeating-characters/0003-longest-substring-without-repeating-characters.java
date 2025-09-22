@@ -1,26 +1,16 @@
-import java.util.ArrayList;
-import java.util.List;
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int start=0;
-        int end=0;
-        int max_length=0;
-        List<Character> list=new ArrayList<Character>();
-        
-        while(end<s.length())
-        {
-            if(!list.contains(s.charAt(end)))
-            {
-                list.add(s.charAt(end));
-                end++;
-                max_length=Math.max(max_length,list.size());
+        HashMap<Character, Integer> map = new HashMap<>();
+        int maxLen = 0;
+        int start = 0;
+        for (int end = 0; end < s.length(); end++) {
+            char c = s.charAt(end);
+            if (map.containsKey(c) && map.get(c) >= start) {
+                start = map.get(c) + 1;
             }
-            else
-            {
-                list.remove(Character.valueOf(s.charAt(start)));
-                start++;
-            }
+            map.put(c, end);
+            maxLen = Math.max(maxLen, end - start + 1);
         }
-        return max_length;
+        return maxLen;
     }
 }
